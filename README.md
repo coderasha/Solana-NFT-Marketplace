@@ -39,7 +39,7 @@ bindings that allow interactivity.
 We have a few channels for contact:
 
 - [Discord](https://discord.gg/metaplex)
-- [@metaplex](https://twitter.com/metaplex) on Twitter
+- [@metaplex](https://twitter.com/metaplex) 
 
 
 # Protocol
